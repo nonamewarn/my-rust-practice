@@ -43,3 +43,4 @@ fn test() {
         assert_eq!(gray(n), expected);
     }
 }
+
