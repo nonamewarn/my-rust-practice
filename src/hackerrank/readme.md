@@ -1,0 +1,21 @@
+список найпростіших задач:
+- https://www.hackerrank.com/challenges/simple-array-sum/problem
+- https://www.hackerrank.com/challenges/compare-the-triplets/problem
+- https://www.hackerrank.com/challenges/a-very-big-sum/problem
+- https://www.hackerrank.com/challenges/diagonal-difference
+- https://www.hackerrank.com/challenges/plus-minus/problem
+- https://www.hackerrank.com/challenges/staircase/problem
+- https://www.hackerrank.com/challenges/mini-max-sum/problem
+- https://www.hackerrank.com/challenges/birthday-cake-candles/problem
+- https://www.hackerrank.com/challenges/time-conversion/problem
+- https://www.hackerrank.com/challenges/grading/problem
+- https://www.hackerrank.com/challenges/apple-and-orange/problem
+- https://www.hackerrank.com/challenges/kangaroo/problem
+- https://www.hackerrank.com/challenges/between-two-sets/problem
+- https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+- https://www.hackerrank.com/challenges/the-birthday-bar/problem
+- https://www.hackerrank.com/challenges/divisible-sum-pairs
+- https://www.hackerrank.com/challenges/migratory-birds/problem
+- https://www.hackerrank.com/challenges/bon-appetit/problem
+- https://www.hackerrank.com/challenges/sock-merchant/problem
+- https://www.hackerrank.com/challenges/drawing-book/problem
